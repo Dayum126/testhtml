@@ -22,7 +22,7 @@
                   <?php
                                   $serverName = "simplewebtp000000.database.windows.net";
                                   $connectionOptions = array(
-                                                        "Database" => "simplewebtp045971",
+                                                        "Database" => "simpleweb",
                                                         "Uid" => "simpleweb",
                                                         "PWD" => "Simple@web");
                                     //Establishes the connection
